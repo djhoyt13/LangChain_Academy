@@ -1,3 +1,7 @@
+##################################################################
+### Youtube Video: https://www.youtube.com/watch?v=2nLDe_igVnE ###
+##################################################################
+
 import os
 import tiktoken
 import requests
